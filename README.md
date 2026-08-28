@@ -1,2 +1,2 @@
 # ML_Clasificador
-Uso del archivo indice_paz_mex_impacto-economico_2020.csv para clasificación binaria
+En este proyecto se analizaran datos de arrestos en Estados Unidos en el año 1973 por cada 100,000 habitantes. También proporciona el porcentaje de la población que vive en áreas urbanas dentro del estado.
